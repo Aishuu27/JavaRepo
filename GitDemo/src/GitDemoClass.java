@@ -4,8 +4,8 @@ public class GitDemoClass {
 	public void method1() {
 		System.out.println("method 1");
 		System.out.println("line1");
-		System.out.println("line no 2");
-	}
+         System.out.println("line 2");
+    }
 	public void method2() {
 		System.out.println("method 2");
 	}
